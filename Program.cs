@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         Debug.WriteLine("Hello, World!");
-        Debug.WriteLine("hello");
+        Debug.WriteLine("hello world");
 
 
         int x = 3;
